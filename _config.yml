@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+colors:
+  background: "#ACC3A6"
+  headings: "#2C2C54"
