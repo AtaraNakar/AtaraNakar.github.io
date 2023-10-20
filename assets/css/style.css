@@ -1,0 +1,14 @@
+/* Customize the header background color */
+.header {
+  background-color: #F3D916; /* Change to your preferred color */
+}
+
+/* Customize the header text color */
+.header a {
+  color: #2C2C54; /* Change to your preferred color */
+}
+
+/* Customize the border color (optional) */
+.border-bottom {
+  border-color: #FBD9C6; /* Change to your preferred color */
+}
