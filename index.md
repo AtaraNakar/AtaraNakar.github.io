@@ -23,11 +23,21 @@ css: assets/css/style.css
 ## קביעת תורים
 לקביעת תור ניתן ליצור איתי קשר 
 
-בטלפון: 058-5292795 (או [בוואטסאפ](https://wa.me/+972585292795)
+בטלפון: 058-5292795 (או [בוואטסאפ](https://wa.me/+972585292795))
 
-במייל: ataranakar@gmail.com
+במייל: [ataranakar@gmail.com](mailto:ataranakar@gmail.com)
 
 או דרך [מערכת קביעת תורים](https://calendar.app.google/vaZT4EQc4b8GLAob8)
+
+## הקליניקה
+הקליניקה שלי נמצאת ביישוב הררית שבגליל
+
+<a href="https://ul.waze.com/ul?ll=32.84602677%2C35.36811233&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location">
+  <img src="https://www.myteacherlanguages.com/wp-content/uploads/2018/11/Waze-Icon-copy_Link.jpg" alt="waze" width="50">
+</a>
+
+
+
 
 
 
