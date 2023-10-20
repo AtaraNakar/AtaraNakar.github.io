@@ -6,9 +6,10 @@ css: assets/css/style.css
 
 # Welcome to Atara Acupuncture
 
-![Acupuncture Image](assets/img/acupuncture.jpg)
+![Acupuncture Image](https://scontent.fsdv1-2.fna.fbcdn.net/v/t1.6435-9/189852411_2858298777752387_3913260541356916043_n.jpg?stp=dst-jpg_p843x403&_nc_cat=100&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=62kiBHykqCcAX8fw9mo&_nc_ht=scontent.fsdv1-2.fna&oh=00_AfCBRxX1qugEAvmqmNu1DsIjxFLJxNayZ11jUBc3BHOcxA&oe=6559E396)
 
-Hello, I'm [Your Name], a licensed acupuncturist in [Your Location]. I specialize in [briefly describe your specialties, e.g., pain management, stress relief, etc.].
+שלום, שמי עטרה נקר ואני מדקרת סינית בשיטת Qi & Body מזה 5 שנים. אני ממש מגניבה!
+
 
 ## About Me
 
